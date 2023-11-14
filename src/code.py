@@ -5,3 +5,6 @@ def add(a, b):
     return a+b
 r = add(3, 5)
 print(r)
+print('hhhh')
+print('a new line')
+print('jj')
