@@ -1,4 +1,4 @@
-print('Helloo')
+print('Hello')
 import numpy as np
 print(np.random.randint(10))
 def add(a, b):
