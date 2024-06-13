@@ -9,6 +9,5 @@ print('hhhh')
 print('a new line')
 print('jj')
 print('jjj')
-print('jjjjjjjjjjjjjjjjjjjjjjjjjjjj')
 for i in range(3):
     print(i)
