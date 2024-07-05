@@ -8,6 +8,6 @@ print(r)
 print('hhhh')
 print('a new line')
 print('jj')
-print('jjj')
+
 for i in range(3):
     print(i)
